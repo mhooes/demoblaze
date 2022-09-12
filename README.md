@@ -17,7 +17,7 @@
 #### **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/mhooes/automationtesting.git
+git clone https://github.com/mhooes/demoblaze.git
 ```
 
 #### **Instalar las dependencias.**
